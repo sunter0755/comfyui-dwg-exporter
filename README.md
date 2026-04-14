@@ -6,7 +6,9 @@ This custom node adds an `Image to DWG (mm)` node to ComfyUI.
 It vectorizes the generated image into CAD polylines and exports a **DWG** file in **millimeter units**.
 这个是CAD中打开后的效果
 ![428d00bad14c957cb70d8b9225c08a09](https://github.com/user-attachments/assets/3dc23c31-f9a3-4ec1-868b-44ac3238f652)
-
+此为CAD2007最低版本。低于2007版本的CAD可能会因兼容性问题，输出出错。
+此节点为工程设计人员，大量comfyui图片资源需要转出矢量线条图时适用，或人物 小品 电商图片等转换适用。
+此为1.0版本，后续有不断改进！
 ## Features
 
 - Auto-discovered by ComfyUI when placed in `ComfyUI/custom_nodes/comfyui_dwg_exporter`
