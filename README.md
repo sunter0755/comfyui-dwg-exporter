@@ -1,8 +1,11 @@
 # ComfyUI DWG Export Node
 
 This custom node adds an `Image to DWG (mm)` node to ComfyUI.
+![60d88de002471ce3f1c0567b49b2d14a](https://github.com/user-attachments/assets/100e381c-8247-4f99-8eee-bd9c7452e722)
 
 It vectorizes the generated image into CAD polylines and exports a **DWG** file in **millimeter units**.
+这个是CAD中打开后的效果
+![428d00bad14c957cb70d8b9225c08a09](https://github.com/user-attachments/assets/3dc23c31-f9a3-4ec1-868b-44ac3238f652)
 
 ## Features
 
