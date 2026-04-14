@@ -1,0 +1,4 @@
+ezdxf
+opencv-python
+Pillow
+numpy
